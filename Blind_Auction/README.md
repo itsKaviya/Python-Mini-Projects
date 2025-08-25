@@ -1,4 +1,4 @@
-**🏆 Blind Auction Program (Python Console App)**
+******🏆 Blind Auction Program (Python Console App)******
 
 This is a simple Python console program that simulates a secret auction. Each bidder enters their name and bid amount without seeing others’ bids. Once all bids are collected, the program determines the highest bidder and announces the winner.
 
@@ -8,8 +8,7 @@ This is a simple Python console program that simulates a secret auction. Each bi
 - Clears the screen after each bid for secrecy
 - Tracks all bids in a dictionary
 - Determines and displays the highest bidder
-
-Uses ASCII logo (optional)
+- Uses ASCII logo (optional)
 
 🧠 Program Flow
 
